@@ -22,7 +22,7 @@ A responsive personal portfolio website developed using HTML, CSS, and JavaScrip
 ## Installation
 1. Clone the repository
 2. Run `npm install`
-3. Start the server using `npm start`
+3. Start the server using `node index.js`
 4. Open the application in your browser
 
 ## Future Improvements
